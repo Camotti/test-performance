@@ -1,0 +1,14 @@
+npm install (node packages)
+npm install express (express)
+npm install mysql2(mysql2)
+npm install cors 
+npm install csv-parser
+npm run dev 
+
+
+node index.js
+node server/seeders/run_seeders.js
+
+if the module error appears do the nexts steps: 
+1. cd server
+2. node index.js 
